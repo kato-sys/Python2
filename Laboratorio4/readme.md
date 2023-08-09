@@ -1,0 +1,3 @@
+# Laboratorio 4
+
+En este lab se utilizaron las librerias pandas y matplotlib para obtener datos de un archivo csv y graficarlos ademas de calcular las ganancias de una compañia por mes y añadirle la columna en el mismo csv, no hay mucho que explicar para el uso ya que es solo correrlo y el programa hace todo automaticamente. Este laboratorio sirve para terminar la tarea 2 y en mi caso, comenzar a hacer bien el proyecto de Uni_checker.
